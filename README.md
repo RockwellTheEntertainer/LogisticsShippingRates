@@ -79,6 +79,19 @@ git push origin feature-branch-name
 
 8. **Engage with Feedback:** If you receive feedback or questions on your PR, engage respectfully with the maintainers and address any required changes.
 
+***Please consider the below factors while contributing***
+
+## Code Style
+* **Code Structure:** Ensure the code is easy to follow, modular, and maintainable.
+* **Naming Conventions:** Use meaningful variable and function names. Follow camelCase or snake_case, depending on the language conventions.
+* **Documentation:** Update or create documentation as needed. This helps other contributors understand how to use and extend the codebase.
+
+## Documentation
+Ensure well-documented code for effective collaboration
+
+## Testing
+If you’re contributing code that affects functionality, please include tests to verify your changes. Ensure that all tests pass before submitting your pull request.
+
 ## Reporting Issues
 If you encounter any bugs or have ideas for improvements, please open an issue. When reporting an issue, provide:
 * A clear and concise title.
@@ -86,11 +99,5 @@ If you encounter any bugs or have ideas for improvements, please open an issue. 
 * Expected vs. actual behavior.
 * Any relevant error messages or logs.
 
-## Code Style
-* **Code Structure:** Ensure the code is easy to follow, modular, and maintainable.
-* **Naming Conventions:** Use meaningful variable and function names. Follow camelCase or snake_case, depending on the language conventions.
-* **Documentation:** Update or create documentation as needed. This helps other contributors understand how to use and extend the codebase.
-
-## Tests
-
-If you’re contributing code that affects functionality, please include tests to verify your changes. Ensure that all tests pass before submitting your pull request.
+## Issue Tracking
+Check the issue tracker regularly for tasks.
