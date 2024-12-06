@@ -51,17 +51,29 @@ git clone https://github.com/your-username/shipping-logistics.git
 
 3. **Create a New Branch:** Create a branch for your feature or bug fix. This ensures that your changes are isolated from the main codebase and makes it easier to review.
 
-    git checkout -b feature-branch-name
+```
+bash
+
+git checkout -b feature-branch-name
+```
 
 4. **Make Your Changes:** Add your changes, whether it's improving the code, adding documentation, or fixing issues. Follow the coding style used in the repository and ensure that the logic aligns with the project’s objectives    (shipping logistics rates).
 
 5. **Commit Your Changes:** When committing, write clear and descriptive commit messages. Use the following format:
 
-    git commit -m "Fix issue with rate calculation for heavy packages"
+```
+bash
+
+git commit -m "Fix issue with rate calculation for heavy packages"
+```
 
 6. **Push to Your Fork:** Push your changes back to your forked repository on GitHub.
 
-    git push origin feature-branch-name
+```
+bash
+
+git push origin feature-branch-name
+```
 
 7. **Create a Pull Request:** Open a pull request (PR) to merge your changes into the main branch of the original repository. Include a description of what you've done, why it’s needed, and any relevant context for the maintainers to consider.
 
