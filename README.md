@@ -43,10 +43,12 @@ Thank you for considering contributing to this open-source project! By contribut
 
 2. **Clone the Repository:** Clone your forked repository to your local machine.
     
-```bash
+```
 bash
 
-git clone https://github.com/your-username/shipping-logistics.git
+<pre>
+<span style="color: orange;">git</span> clone https://github.com/your-username/shipping-logistics.git
+</pre>
 ```
 
 3. **Create a New Branch:** Create a branch for your feature or bug fix. This ensures that your changes are isolated from the main codebase and makes it easier to review.
