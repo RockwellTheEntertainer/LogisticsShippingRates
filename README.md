@@ -43,7 +43,7 @@ Thank you for considering contributing to this open-source project! By contribut
 
 2. **Clone the Repository:** Clone your forked repository to your local machine.
     
-```
+```bash
 bash
 
 git clone https://github.com/your-username/shipping-logistics.git
